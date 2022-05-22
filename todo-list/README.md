@@ -3,3 +3,4 @@
 - Jest
 - React
 - React-Testing-Library
+- Typescript
